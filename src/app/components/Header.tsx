@@ -1,7 +1,10 @@
+import { useTranslations } from "next-intl";
 import Image from "next/image";
 import React from "react";
 
 export default function Header() {
+  const t = useTranslations('Header')
+
   return (
     <header className="max-w-[1440px] mx-auto bg-transparent flex items-center justify-between mt-2.5 px-10">
       <Image
@@ -15,19 +18,19 @@ export default function Header() {
       <nav className=" hidden md:flex flex-col items-center justify-between font-semibold text-sm ">
         <ul className="flex gap-2 md:gap-4 lg:gap-8 items-center">
           <li>
-            <a href="#">Soluciones</a>
+            <a href="#">{t('solutions')}</a>
           </li>
           <li>
-            <a href="#">Industrias</a>
+            <a href="#">{t('industries')}</a>
           </li>
           <li>
-            <a href="#">Productos</a>
+            <a href="#">{t('products')}</a>
           </li>
           <li>
-            <a href="#">Recursos</a>
+            <a href="#">{t('resources')}</a>
           </li>
           <li>
-            <a href="#">Precios</a>
+            <a href="#">{t('prices')}</a>
           </li>
           <li>
             <button className="bg-btn px-8 py-2 rounded-md text-white">
