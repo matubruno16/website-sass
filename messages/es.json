@@ -27,5 +27,13 @@
       "title": "Plataforma integrada",
       "subtitle": "Donde podes realizar todos desde un mismo sitio."
     }
+  },
+  "CoreFeatures": {
+    "title": " Asignar clientes potenciales y simplificar su gestión",
+    "subtitle": "Un paquete de software único y potente para gestionar toda su empresa, puesto a su disposición por una mpresa con la visión largo plazo de transformar su forma de trabajar.",
+    "headerGrafics1": "Generación de clientes potenciales",
+    "description1": " La guía ayuda a las empresas a aumentar la satisfacción de clientes y agentes, reduciendo también los costes de asistencia.",
+    "headerGrafics2": "Correo electrónico del equipo",
+    "description2": "Agrupe sus contactos por ubicación, edad y casi cualquier comportamiento con las herramientas avanzadas de segmentación."
   }
 }
