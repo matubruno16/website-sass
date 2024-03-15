@@ -1,0 +1,31 @@
+{
+  "Header": {
+    "solutions": "Solutions",
+    "industries": "Industries",
+    "products": "Products",
+    "resources": "Resources",
+    "prices": "Prices"
+  },
+  "Hero": {
+    "title": "The CRM Platform Your Whole Business Will Love",
+    "subtitle": "Provide excellent customer service. Answer more tickets all-in-one Primarily software.",
+    "btn": "Get Started",
+    "link":"How It Work" 
+  },
+  "Features": {
+    "title": "Explore Premium Features",
+    "subtitle": "A unique and powerful software package to manage your entire company, made available to you by a company with the long-term vision of transforming your way of working.",
+    "card1": {
+      "title": "Powerful Settings",
+      "subtitle": "Provide excellent customer service. Answer more tickets."
+    },
+    "card2": {
+      "title": "User Friendly",
+      "subtitle": "Use Timeline to plan projects right how the pieces fit together."
+    },
+    "card3": {
+      "title": "Integrated Platform",
+      "subtitle": "Where you can do everything from one place."
+    }
+  }
+}

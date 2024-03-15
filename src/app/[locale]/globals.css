@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-heading {
+  background-image: url(../../../public/heading.png);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.bg-coreFeatures {
+  background-image: url(../../../public/bg-coreFeatures.png);
+  background-position: start;
+  background-repeat: no-repeat;
+  background-size: contain;
+}

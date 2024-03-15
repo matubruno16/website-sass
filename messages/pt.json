@@ -1,0 +1,31 @@
+{
+  "Header": {
+    "solutions": "Soluções",
+    "industries": "Indústrias",
+    "products": "Produtos",
+    "resources": "Recursos",
+    "prices": "Preços"
+  },
+  "Hero": {
+    "title": "A plataforma CRM que toda a sua empresa vai adorar",
+    "subtitle": "Prestar um excelente serviço ao cliente. Responder a mais bilhetes num só software",
+    "btn": "Começar",
+    "link": "Como funciona"
+  },
+  "Features": {
+    "title": "Explore os Recursos Premium",
+    "subtitle": "Um pacote de software único e poderoso para gerenciar toda a sua empresa, disponibilizado por uma empresa com a visão de longo prazo de transformar sua forma de trabalhar.",
+    "card1": {
+      "title": "Ajustes Poderosos",
+      "subtitle": "Ofereça um excelente serviço ao cliente. Responda a mais tickets."
+    },
+    "card2": {
+      "title": "Fácil de Usar",
+      "subtitle": "Use a linha do tempo para planejar projetos e ver como as peças se encaixam."
+    },
+    "card3": {
+      "title": "Plataforma Integrada",
+      "subtitle": "Onde você pode fazer tudo a partir de um único lugar."
+    }
+  }
+}
