@@ -9,8 +9,11 @@
   "Hero": {
     "title": "La plataforma CRM que toda tu empresa amará",
     "subtitle": "Proporcione un excelente servicio de atención al cliente. Responda a más tickets todo en un solo Software",
-    "btn": "Comenzar",
+
     "link": "Cómo funciona"
+  },
+  "GetStarted": {
+    "btn": "Comencemos"
   },
   "Features": {
     "title": "Explore las funciones Premium",

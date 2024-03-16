@@ -1,7 +1,7 @@
-import { useTranslations } from "next-intl";
 import CoreFeatures from "../components/CoreFeatures";
 import Features from "../components/Features";
 import Hero from "../components/Hero";
+import WhyChooseUs from "../components/WhyChooseUs";
 
 export default function Home() {
  
@@ -11,6 +11,7 @@ export default function Home() {
       <Hero />
       <Features />
       <CoreFeatures />
+      <WhyChooseUs />
      
     </main>
   );

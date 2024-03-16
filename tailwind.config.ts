@@ -18,6 +18,7 @@ const config: Config = {
         "btn": "#303030",
         "text-primario": "#303030",
         "text-secundario": "#4e4e4e",
+        "aro": "#DFDFDF"
     },
   },
   plugins: [],

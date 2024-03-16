@@ -14,3 +14,10 @@
   background-repeat: no-repeat;
   background-size: contain;
 }
+
+.bg-whyChooseUs {
+  background-image: url(../../../public/bg-whyChooseUs.png);
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
