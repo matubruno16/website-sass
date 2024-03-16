@@ -6,9 +6,9 @@ export default function CoreFeatures() {
   const t = useTranslations("CoreFeatures");
   return (
     <section className="overflow-hidden w-full h-full">
-      <div className="bg-coreFeatures w-screen h-full md:h-[769px] mb-10 grid place-items-center">
+      <div className="bg-coreFeatures w-screen h-full md:h-[769px] grid place-items-center">
         <div className="grid md:grid-cols-2 justify-center w-[90%] md:w-[2/3] max-w-[1200px] h-full md:h-[500px] place-items-center mx-10 text-center md:text-start">
-          <div className=" hidden bg-[#EBEBEB] w-full h-full rounded-[30px] md:flex flex-col items-center p-6">
+          <div className=" hidden bg-[#EBEBEB] w-full h-full rounded-[30px] md:flex flex-col items-center p-6 overflow-hidden">
             <Image
               className=""
               src="/analytics.png"
@@ -24,6 +24,7 @@ export default function CoreFeatures() {
                 alt="Number of Leads"
               />
               <Image
+                className="hidden lg:block"
                 src="/grafic.png"
                 width={160}
                 height={160}
