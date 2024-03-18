@@ -14,8 +14,11 @@
       "link": "Cómo funciona"
     },
     "Buttons": {
-      "btn-hero": "Comencemos",
-      "btn-whyChooseUs": "Comencemos"
+      "btn-hero": "Comenzar",
+      "btn-whyChooseUs": "Comenzar",
+      "btn-InNeed": "Necesidades",
+      "btn-Industry": "Industria",
+      "btn-Solution": "Solución"
     },
     "Features": {
       "title": "Explore las funciones Premium",
@@ -51,6 +54,10 @@
     },
     "ClientLogos": {
       "title": "Confiado por más de 75 millones de usuarios en todo el mundo",
+      "subtitle": "Suite única y poderosa de software para administrar todo tu negocio, presentada por una empresa con la visión a largo plazo de transformar la forma en que trabajas."
+    },
+    "SalesModules": {
+      "title": "Módulos de Automatización de Ventas",
       "subtitle": "Suite única y poderosa de software para administrar todo tu negocio, presentada por una empresa con la visión a largo plazo de transformar la forma en que trabajas."
     }
   }

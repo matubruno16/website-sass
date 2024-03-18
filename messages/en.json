@@ -14,7 +14,10 @@
     },
     "Buttons": {
       "btn-hero": "Get Started",
-      "btn-whyChooseUs": "Get Started"
+      "btn-whyChooseUs": "Get Started",
+      "btn-InNeed":"In Need",
+      "btn-Industry":"Industry",
+      "btn-Solution":"Solution"
     },
     "Features": {
       "title": "Explore Premium Features",

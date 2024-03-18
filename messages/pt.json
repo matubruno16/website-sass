@@ -15,7 +15,11 @@
     },
     "Buttons": {
       "btn-hero": "Começar",
-      "btn-whyChooseUs": "Começar"
+      "btn-whyChooseUs": "Começar",
+      "btn-InNeed": "Necessidade",
+      "btn-Industry": "Indústria",
+      "btn-Solution": "Solução"
+  
     },
     "Features": {
       "title": "Explore os Recursos Premium",
@@ -52,6 +56,11 @@
     "ClientLogos": {
       "title": "Confiado por mais de 75 milhões de usuários globalmente",
       "subtitle": "Suíte única e poderosa de software para executar todo o seu negócio, oferecida por uma empresa com visão de longo prazo para transformar a maneira como você trabalha."
+    },
+    "SalesModules": {
+      "title": "Módulos de Automatização de Vendas",
+      "subtitle": "Suíte única e poderosa de software para executar todo o seu negócio, oferecida por uma empresa com visão de longo prazo para transformar a maneira como você trabalha."
     }
+  
   }
 }
