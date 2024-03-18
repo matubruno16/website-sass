@@ -23,7 +23,7 @@
 }
 
 .logos-slider {
-  animation: 10s slide infinite linear;
+  animation: 15s slide infinite linear;
   display: inline-flex;
 }
 .logos-slider img{
