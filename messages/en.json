@@ -1,4 +1,5 @@
-{
+{"Home": {
+
   "Header": {
     "solutions": "Solutions",
     "industries": "Industries",
@@ -11,8 +12,9 @@
     "subtitle": "Provide excellent customer service. Answer more tickets all-in-one Primarily software.",
     "link": "How It Work"
   },
-  "GetStarted": {
-      "btn":"Get Started"
+  "Buttons": {
+      "btn-hero":"Get Started",
+      "btn-whyChooseUs": "Ger Started"
   },
   "Features": {
     "title": "Explore Premium Features",
@@ -49,5 +51,10 @@
   "ClientLogos": {
     "title": "Trusted by more than 75 million users globally",
     "subtitle": "Unique and powerful suite of software to run your entire business, brought to you  transform the way you work."
+  },
+  "SalesModules": {
+    "title": "Sales Automation Modules",
+    "subtitle": "Unique and powerful suite of software to run your entire business, brought to you by a company with the long term vision to transform the way you work."
   }
+}
 }
