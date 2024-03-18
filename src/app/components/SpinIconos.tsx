@@ -4,15 +4,15 @@ import Image from "next/image";
 import { useState, useEffect, useRef, useMemo } from "react";
 
 const imageUrls = [
-  "/Icon.png",
-  "/Icon-1.png",
-  "/Icon-2.png",
-  "/Icon-3.png",
-  "/Icon-4.png",
-  "/Icon-5.png",
-  "/Icon-6.png",
-  "/Icon-7.png",
-  "/Icon-8.png",
+  "/Icon.svg",
+  "/Icon-1.svg",
+  "/Icon-2.svg",
+  "/Icon-3.svg",
+  "/Icon-4.svg",
+  "/Icon-5.svg",
+  "/Icon-6.svg",
+  "/Icon-7.svg",
+  "/Icon-8.svg",
 ];
 
 type ImageData = {
@@ -63,6 +63,7 @@ const SpinIconos = () => {
           className="rounded-full"
           width={70}
           height={70}
+          loading="lazy"
           style={{ position: "absolute", ...position }}
         />
       ))}
@@ -71,6 +72,7 @@ const SpinIconos = () => {
         alt="logo CRM"
         width={180}
         height={180}
+        loading="lazy"
       />
     </div>
   );
