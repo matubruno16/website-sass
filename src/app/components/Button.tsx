@@ -2,7 +2,7 @@ import { useTranslations } from "next-intl";
 import React from "react";
 
 interface Props {
-  text: Home.Buttons;
+  text: any;
 }
 export default function Button({ text }: Props) {
   const t = useTranslations("Home.Buttons");
