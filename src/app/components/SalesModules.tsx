@@ -20,20 +20,20 @@ export default function SalesModules() {
           <Button text="btn-InNeed" />
           <div className=" pt-8" >
             <ModulSales
-              srcImg="/icon.svg"
+              srcImg="/Icon.svg"
               altImg="Icono Descuento"
               title="Sales"
               subtitle="Unique and powerful suite sale run your entire business"
             />
             <ModulSales
-              srcImg="/icon-1.svg"
+              srcImg="/Icon-1.svg"
               altImg="Icono Altavoz"
               title="Marketing"
               subtitle="Unique and powerful suite sale 
               run your entire business"
             />
             <ModulSales
-              srcImg="/icon-2.svg"
+              srcImg="/Icon-2.svg"
               altImg="Icono Service"
               title="Service"
               subtitle="Unique and powerful suite sale 
@@ -45,21 +45,21 @@ export default function SalesModules() {
           <Button text="btn-Industry" />
           <div className=" pt-8">
             <ModulSales
-              srcImg="/icon-3.svg"
+              srcImg="/Icon-3.svg"
               altImg="Icono Automotive"
               title="Automotive"
               subtitle="Unique and powerful suite sale 
               run your entire business"
             />
             <ModulSales
-              srcImg="/icon-4.svg"
+              srcImg="/Icon-4.svg"
               altImg="Icono Real estate"
               title="Real estate"
               subtitle="Unique and powerful suite sale 
               run your entire business"
             />
             <ModulSales
-              srcImg="/icon-5.svg"
+              srcImg="/Icon-5.svg"
               altImg="Icono Education"
               title="Education"
               subtitle="Unique and powerful suite sale 
@@ -72,21 +72,21 @@ export default function SalesModules() {
 
           <div className=" pt-8">
             <ModulSales
-              srcImg="/icon-6.svg"
+              srcImg="/Icon-6.svg"
               altImg="Icono Project Management"
               title="Project Management"
               subtitle="Unique and powerful suite sale 
               run your entire business"
             />
             <ModulSales
-              srcImg="/icon-7.svg"
+              srcImg="/Icon-7.svg"
               altImg="Icono Delivery Management"
               title="Delivery Management"
               subtitle="Unique and powerful suite sale 
               run your entire business"
             />
             <ModulSales
-              srcImg="/icon-8.svg"
+              srcImg="/Icon-8.svg"
               altImg="Icono Loyalty Management"
               title="Loyalty Management"
               subtitle="Unique and powerful suite sale 
