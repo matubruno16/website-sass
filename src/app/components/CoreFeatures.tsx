@@ -14,6 +14,7 @@ export default function CoreFeatures() {
               src="/analytics.png"
               width={600}
               height={239}
+              loading="lazy"
               alt="Graficos analiticos"
             />
             <div className="w-full flex items-center justify-between gap-2 my-2">
@@ -21,6 +22,7 @@ export default function CoreFeatures() {
                 src="/nuber.png"
                 width={280}
                 height={80}
+                loading="lazy"
                 alt="Number of Leads"
               />
               <Image
@@ -28,6 +30,7 @@ export default function CoreFeatures() {
                 src="/grafic.png"
                 width={160}
                 height={160}
+                loading="lazy"
                 alt="Grafico circular"
               />
             </div>
@@ -35,6 +38,7 @@ export default function CoreFeatures() {
               src="/task.png"
               width={600}
               height={200}
+              loading="lazy"
               alt="Task Assigned To Me"
               style={{ objectFit: "cover" }}
             />
@@ -50,6 +54,7 @@ export default function CoreFeatures() {
               <div className="flex flex-col md:flex-row items-center gap-3 mt-10 md:mt-24">
                 <Image
                   src="/punto.png"
+                  loading="lazy"
                   alt="Icono Punto"
                   className="hidden md:flex"
                   width={16}
@@ -67,6 +72,7 @@ export default function CoreFeatures() {
               <div className="flex flex-col md:flex-row items-center gap-3 mt-10 md:mt-14">
                 <Image
                   src="/punto.png"
+                  loading="lazy"
                   alt="Icono Punto"
                   className="hidden md:flex"
                   width={16}

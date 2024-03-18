@@ -29,6 +29,7 @@ export default function Hero() {
         alt="Certificacion 5 estrellas"
         width={1200}
         height={400}
+        loading="lazy"
       />
     </section>
   );

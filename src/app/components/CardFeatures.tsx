@@ -16,6 +16,7 @@ export default function CardFeatures({ src, titulo, descripcion }: Props) {
         alt={`Icono ${src} `}
         width={60}
         height={60}
+        loading="lazy"
         style={{ objectFit: "cover", width: "auto", height: "auto" }}
       />
       <h2 className="text-text-primario text-3xl font-semibold mt-4 mb-2">
