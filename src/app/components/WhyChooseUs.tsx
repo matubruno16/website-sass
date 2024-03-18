@@ -2,7 +2,6 @@ import { useTranslations } from "next-intl";
 import Image from "next/image";
 import React from "react";
 import SpinIconos from "./SpinIconos";
-import GetStarted from "./GetStarted";
 import Button from "./Button";
 
 export default function WhyChooseUs() {
