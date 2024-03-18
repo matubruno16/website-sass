@@ -17,7 +17,23 @@
 
 .bg-whyChooseUs {
   background-image: url(../../../public/bg-whyChooseUs.png);
-  background-position: right;
+  background-position: right center;
   background-repeat: no-repeat;
   background-size: contain;
+}
+
+.logos-slider {
+  animation: 10s slide infinite linear;
+  display: inline-flex;
+}
+.logos-slider img{
+  height: 50px;
+}
+@keyframes slide {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-100%);
+  }
 }
