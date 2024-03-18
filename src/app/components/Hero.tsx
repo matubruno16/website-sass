@@ -2,10 +2,10 @@ import React from "react";
 import Header from "./Header";
 import Image from "next/image";
 import { useTranslations } from "next-intl";
-import GetStarted from "./GetStarted";
+import Button from "./Button";
 
 export default function Hero() {
-  const t = useTranslations("Hero");
+  const t = useTranslations("Home.Hero");
   return (
     <section className="bg-heading h-full overflow-hidden">
       <Header />
@@ -17,7 +17,7 @@ export default function Hero() {
           <p className="text-balance">{t("subtitle")}</p>
         </div>
         <div className="w-full flex flex-col md:flex-row items-center justify-center md:justify-start gap-6 text-lg font-semibold mt-6 mb-20 ">
-          <GetStarted />
+          <Button text="btn-hero" />
           <a href="#" className=" ">
             {t("link")}
           </a>

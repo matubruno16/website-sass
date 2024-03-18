@@ -3,7 +3,7 @@ import Image from "next/image";
 import React from "react";
 
 export default function CoreFeatures() {
-  const t = useTranslations("CoreFeatures");
+  const t = useTranslations("Home.CoreFeatures");
   return (
     <section className="overflow-hidden w-full h-full">
       <div className="bg-coreFeatures w-screen h-full md:h-[769px] grid place-items-center">

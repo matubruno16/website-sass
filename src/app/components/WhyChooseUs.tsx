@@ -3,9 +3,10 @@ import Image from "next/image";
 import React from "react";
 import SpinIconos from "./SpinIconos";
 import GetStarted from "./GetStarted";
+import Button from "./Button";
 
 export default function WhyChooseUs() {
-  const t = useTranslations("WhyChooseUs");
+  const t = useTranslations("Home.WhyChooseUs");
   return (
     <section className="bg-whyChooseUs w-full h-full md:h-[969px] -translate-y-20 overflow-hidden">
       <div className="grid md:grid-cols-2 justify-center w-[90%] md:w-[2/3] max-w-[1200px] h-full md:h-[500px] place-items-center mx-auto pt-44 text-center md:text-start">
@@ -36,7 +37,7 @@ export default function WhyChooseUs() {
               </p>
             </div>
           </div>
-          <GetStarted />
+          <Button text="btn-whyChooseUs" />
         </div>
         <div className="bg-[#EBEBEB] w-full h-full rounded-[30px] flex flex-col items-center justify-center opacity-90">
           <SpinIconos />

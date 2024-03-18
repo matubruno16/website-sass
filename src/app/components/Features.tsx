@@ -3,7 +3,7 @@ import CardFeatures from "./CardFeatures";
 import { useTranslations } from "next-intl";
 
 export default function Features() {
-  const t = useTranslations('Features')
+  const t = useTranslations('Home.Features')
   return (
     <section className="max-w-[1440px] w-full h-full my-20 mx-auto">
       <div className="text-center w-[90%] mx-auto ">

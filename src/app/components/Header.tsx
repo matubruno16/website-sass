@@ -3,7 +3,7 @@ import Image from "next/image";
 import React from "react";
 
 export default function Header() {
-  const t = useTranslations('Header')
+  const t = useTranslations('Home.Header')
 
   return (
     <header className="max-w-[1440px] mx-auto bg-transparent flex items-center justify-between mt-2.5 px-10">
