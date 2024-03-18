@@ -23,6 +23,9 @@ const RootLayout: React.FC<Props> = ({ children, params: { locale } }) => {
 
   return (
     <html lang={locale}>
+      <head>
+      <link rel="icon" href="/favicon.ico" sizes="any" />
+      </head>
       <body className={jost.className}>
         <NextIntlClientProvider messages={messages}>
           {children}
