@@ -1,5 +1,4 @@
 import React from "react";
-import Header from "./Header";
 import Image from "next/image";
 import { useTranslations } from "next-intl";
 import Button from "./Button";
@@ -8,7 +7,7 @@ export default function Hero() {
   const t = useTranslations("Home.Hero");
   return (
     <section className="bg-heading h-full overflow-hidden">
-      <Header />
+      
       <div className="max-w-[1440px] mx-auto h-full flex flex-col md:ml-[5%] lg:ml-40 mt-40 overflow-hidden text-center md:text-start px-10 md:px-0">
         <h1 className=" text-5xl  md:text-6xl font-semibold text-pretty leading-[3.8rem] md:w-[590px] ">
           {t("title")}
