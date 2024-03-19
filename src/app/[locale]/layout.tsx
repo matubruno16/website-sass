@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { Jost } from "next/font/google";
-import "../globals.css";
+import "./globals.css";
 import React from "react";
 import { NextIntlClientProvider, useMessages } from "next-intl";
 import Header from "../components/Header";
