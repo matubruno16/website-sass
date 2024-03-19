@@ -18,7 +18,13 @@ export default function WhyChooseUs() {
           </p>
           <div className="w-full flex pt-10 gap-6">
             <div className="flex w-1/2 flex-col">
-              <Image src="/escudo.svg" alt="" width={94} loading="lazy" height={44} />
+              <Image
+                src="/escudo.svg"
+                alt=""
+                width={94}
+                loading="lazy"
+                height={44}
+              />
               <h2 className="text-xl font-semibold text-text-primario mt-2">
                 {t("heeaderIcon1")}
               </h2>
@@ -27,7 +33,13 @@ export default function WhyChooseUs() {
               </p>
             </div>
             <div className="flex w-1/2 flex-col mb-12">
-              <Image src="/altavoz.svg" alt="" width={75} loading="lazy" height={44} />
+              <Image
+                src="/altavoz.svg"
+                alt=""
+                width={75}
+                loading="lazy"
+                height={44}
+              />
               <h2 className="text-xl font-semibold text-text-primario mt-2">
                 {t("heeaderIcon2")}
               </h2>
