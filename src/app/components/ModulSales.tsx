@@ -18,6 +18,7 @@ export default function ModulSales({ srcImg, altImg, title, subtitle } : Props) 
           width={40} 
           height={40} 
           loading='lazy'
+          style={{ width: "auto", height: "auto" }}
         />
         <div className='pl-6'>
         <a href='#' className='text-xl font-semibold text-text-primario'>{title}</a>
