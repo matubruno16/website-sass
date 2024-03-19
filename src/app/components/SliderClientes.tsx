@@ -1,91 +1,279 @@
+import Image from "next/image";
 import React from "react";
 
 export default function SliderClientes() {
   return (
     <div className="w-full inline-flex flex-nowrap overflow-hidden md:[mask-image:_linear-gradient(to_right,transparent_0,_black_128px,_black_calc(100%-200px),transparent_100%)] mt-10">
-    <ul className="flex items-center justify-center md:justify-start [&_li]:mx-8 [&_img]:max-w-none animate-infinite-scroll" aria-hidden="true">
+      <ul
+        className="flex items-center justify-center md:justify-start [&_li]:mx-8 [&_img]:max-w-none animate-infinite-scroll"
+        aria-hidden="true"
+      >
         <li>
-            <img loading="lazy" src="./1.svg" alt="Logo cliente" />
+          <Image
+            src="./1.svg"
+            width={200}
+            height={60}
+            loading="lazy"
+            style={{ width: "auto", height: "auto" }}
+            alt="Logo Cross-Xy"
+          />
         </li>
         <li>
-            <img loading="lazy" src="./2.svg" alt="Logo cliente" />
+          <Image
+            src="./2.svg"
+            width={200}
+            height={60}
+            loading="lazy"
+            style={{ width: "auto", height: "auto" }}
+            alt="Logo Bittorent"
+          />
         </li>
         <li>
-            <img loading="lazy" src="./3.svg" alt="Logo cliente" />
+          <Image
+            src="./3.svg"
+            width={200}
+            height={60}
+            loading="lazy"
+            style={{ width: "auto", height: "auto" }}
+            alt="Logo VS"
+          />
         </li>
         <li>
-            <img loading="lazy" src="./5.svg" alt="Logo cliente" />
+          <Image
+            src="./5.svg"
+            width={200}
+            height={60}
+            loading="lazy"
+            style={{ width: "auto", height: "auto" }}
+            alt="Logo Brand"
+          />
         </li>
         <li>
-            <img loading="lazy" src="./4.svg" alt="Logo cliente" />
+          <Image
+            src="./4.svg"
+            width={200}
+            height={60}
+            loading="lazy"
+            style={{ width: "auto", height: "auto" }}
+            alt="Logo Bitax"
+          />
         </li>
         <li>
-            <img loading="lazy" src="./6.svg" alt="Logo cliente" />
+          <Image
+            src="./6.svg"
+            width={200}
+            height={60}
+            loading="lazy"
+            style={{ width: "auto", height: "auto" }}
+            alt="Logo Target"
+          />
         </li>
         <li>
-            <img loading="lazy" src="./7.svg" alt="Logo cliente" />
+          <Image
+            src="./7.svg"
+            width={200}
+            height={60}
+            loading="lazy"
+            style={{ width: "auto", height: "auto" }}
+            alt="Logo Modern Cripto"
+          />
         </li>
         <li>
-            <img loading="lazy" src="./8.svg" alt="Logo cliente" />
+          <Image
+            src="./8.svg"
+            width={200}
+            height={60}
+            loading="lazy"
+            style={{ width: "auto", height: "auto" }}
+            alt="Logo Classic Design"
+          />
         </li>
         <li>
-            <img loading="lazy" src="./9.svg" alt="Logo cliente" />
+          <Image
+            src="./9.svg"
+            width={200}
+            height={60}
+            loading="lazy"
+            style={{ width: "auto", height: "auto" }}
+            alt="Logo Up Shot"
+          />
         </li>
         <li>
-            <img loading="lazy" src="./10.svg" alt="Logo cliente" />
+          <Image
+            src="./10.svg"
+            width={200}
+            height={60}
+            loading="lazy"
+            style={{ width: "auto", height: "auto" }}
+            alt="Logo Salebin"
+          />
         </li>
         <li>
-            <img loading="lazy" src="./11.svg" alt="Logo cliente" />
+          <Image
+            src="./11.svg"
+            width={200}
+            height={60}
+            loading="lazy"
+            style={{ width: "auto", height: "auto" }}
+            alt="Logo Kotak"
+          />
         </li>
         <li>
-            <img loading="lazy" src="./12.svg" alt="Logo cliente" />
+          <Image
+            src="./12.svg"
+            width={200}
+            height={60}
+            loading="lazy"
+            style={{ width: "auto", height: "auto" }}
+            alt="Logo Vunzo"
+          />
         </li>
         <li>
-            <img loading="lazy" src="./13.svg" alt="Logo cliente" />
+          <Image
+            src="./13.svg"
+            width={200}
+            height={60}
+            loading="lazy"
+            style={{ width: "auto", height: "auto" }}
+            alt="Logo Minti"
+          />
         </li>
-    </ul>                
-    <ul className="flex items-center justify-center md:justify-start [&_li]:mx-8 [&_img]:max-w-none animate-infinite-scroll" aria-hidden="true">
+      </ul>
+      <ul
+        className="flex items-center justify-center md:justify-start [&_li]:mx-8 [&_img]:max-w-none animate-infinite-scroll"
+        aria-hidden="true"
+      >
         <li>
-            <img loading="lazy" src="./1.svg" alt="Logo cliente" />
-        </li>
-        <li>
-            <img loading="lazy" src="./2.svg" alt="Logo cliente" />
-        </li>
-        <li>
-            <img loading="lazy" src="./3.svg" alt="Logo cliente" />
-        </li>
-        <li>
-            <img loading="lazy" src="./5.svg" alt="Logo cliente" />
-        </li>
-        <li>
-            <img loading="lazy" src="./4.svg" alt="Logo cliente" />
-        </li>
-        <li>
-            <img loading="lazy" src="./6.svg" alt="Logo cliente" />
-        </li>
-        <li>
-            <img loading="lazy" src="./7.svg" alt="Logo cliente" />
-        </li>
-        <li>
-            <img loading="lazy" src="./8.svg" alt="Logo cliente" />
+          <Image
+            src="./1.svg"
+            width={200}
+            height={60}
+            loading="lazy"
+            style={{ width: "auto", height: "auto" }}
+            alt="Logo Cross-Xy"
+          />
         </li>
         <li>
-            <img loading="lazy" src="./9.svg" alt="Logo cliente" />
+          <Image
+            src="./2.svg"
+            width={200}
+            height={60}
+            loading="lazy"
+            style={{ width: "auto", height: "auto" }}
+            alt="Logo Bittorent"
+          />
         </li>
         <li>
-            <img loading="lazy" src="./10.svg" alt="Logo cliente" />
+          <Image
+            src="./3.svg"
+            width={200}
+            height={60}
+            loading="lazy"
+            style={{ width: "auto", height: "auto" }}
+            alt="Logo VS"
+          />
         </li>
         <li>
-            <img loading="lazy" src="./11.svg" alt="Logo cliente" />
+          <Image
+            src="./5.svg"
+            width={200}
+            height={60}
+            loading="lazy"
+            style={{ width: "auto", height: "auto" }}
+            alt="Logo Brand"
+          />
         </li>
         <li>
-            <img loading="lazy" src="./12.svg" alt="Logo cliente" />
+          <Image
+            src="./4.svg"
+            width={200}
+            height={60}
+            loading="lazy"
+            style={{ width: "auto", height: "auto" }}
+            alt="Logo Bitax"
+          />
         </li>
         <li>
-            <img loading="lazy" src="./13.svg" alt="Logo cliente" />
+          <Image
+            src="./6.svg"
+            width={200}
+            height={60}
+            loading="lazy"
+            style={{ width: "auto", height: "auto" }}
+            alt="Logo Target"
+          />
         </li>
-    </ul>                
-                    
-</div>
+        <li>
+          <Image
+            src="./7.svg"
+            width={200}
+            height={60}
+            loading="lazy"
+            style={{ width: "auto", height: "auto" }}
+            alt="Logo Modern Cripto"
+          />
+        </li>
+        <li>
+          <Image
+            src="./8.svg"
+            width={200}
+            height={60}
+            loading="lazy"
+            style={{ width: "auto", height: "auto" }}
+            alt="Logo Classic Design"
+          />
+        </li>
+        <li>
+          <Image
+            src="./9.svg"
+            width={200}
+            height={60}
+            loading="lazy"
+            style={{ width: "auto", height: "auto" }}
+            alt="Logo Up Shot"
+          />
+        </li>
+        <li>
+          <Image
+            src="./10.svg"
+            width={200}
+            height={60}
+            loading="lazy"
+            style={{ width: "auto", height: "auto" }}
+            alt="Logo Salebin"
+          />
+        </li>
+        <li>
+          <Image
+            src="./11.svg"
+            width={200}
+            height={60}
+            loading="lazy"
+            style={{ width: "auto", height: "auto" }}
+            alt="Logo Kotak"
+          />
+        </li>
+        <li>
+          <Image
+            src="./12.svg"
+            width={200}
+            height={60}
+            loading="lazy"
+            style={{ width: "auto", height: "auto" }}
+            alt="Logo Vunzo"
+          />
+        </li>
+        <li>
+          <Image
+            src="./13.svg"
+            width={200}
+            height={60}
+            loading="lazy"
+            style={{ width: "auto", height: "auto" }}
+            alt="Logo Minti"
+          />
+        </li>
+      </ul>
+    </div>
   );
 }
