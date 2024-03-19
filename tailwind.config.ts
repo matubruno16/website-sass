@@ -14,14 +14,23 @@ const config: Config = {
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
       colors: {
-        "background": "#FFFFFFB3",
-        "btn": "#303030",
+        background: "#FFFFFFB3",
+        btn: "#303030",
         "text-primario": "#303030",
         "text-secundario": "#4e4e4e",
-        "aro": "#DFDFDF"
+        aro: "#DFDFDF",
+      },
+      animation: {
+        "infinite-scroll": "infinite-scroll 25s linear infinite",
+      },
+      keyframes: {
+        "infinite-scroll": {
+          from: { transform: "translateX(0)" },
+          to: { transform: "translateX(-100%)" },
+        },
+      },
     },
+    plugins: [],
   },
-  plugins: [],
-}
-}
+};
 export default config;

@@ -21,19 +21,3 @@
   background-repeat: no-repeat;
   background-size: contain;
 }
-
-.logos-slider {
-  animation: 15s slide infinite linear;
-  display: inline-flex;
-}
-.logos-slider img{
-  height: 50px;
-}
-@keyframes slide {
-  from {
-    transform: translateX(0);
-  }
-  to {
-    transform: translateX(-100%);
-  }
-}
