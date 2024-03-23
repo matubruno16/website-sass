@@ -7,7 +7,7 @@ export default function Header() {
   const t = useTranslations('Home.Header')
 
   return (
-    <header className=" w-full absolute bg-transparent flex items-center justify-between mt-2.5 px-10 mx-auto">
+    <header className=" w-full absolute bg-transparent flex items-center justify-between pt-2 px-10 mx-auto">
       <Image
         className="w-40 md:w-[200px] lg:w-[260px]"
         src="/logo.png"
