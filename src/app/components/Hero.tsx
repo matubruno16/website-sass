@@ -7,7 +7,6 @@ export default function Hero() {
   const t = useTranslations("Home.Hero");
   return (
     <section className="bg-heading h-full overflow-hidden">
-      
       <div className="max-w-[1440px] mx-auto h-full flex flex-col md:ml-[5%] lg:ml-40 mt-40 overflow-hidden text-center md:text-start px-10 md:px-0">
         <h1 className=" text-5xl  md:text-6xl font-semibold text-pretty leading-[3.8rem] md:w-[590px] ">
           {t("title")}
@@ -16,7 +15,7 @@ export default function Hero() {
           <p className="text-balance">{t("subtitle")}</p>
         </div>
         <div className="w-full flex flex-col md:flex-row items-center justify-center md:justify-start gap-6 text-lg font-semibold mt-6 mb-20 ">
-          <Button text="btn-hero" />
+          <Button url="/" text="btn-hero" />
           <a href="#" className=" ">
             {t("link")}
           </a>
