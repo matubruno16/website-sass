@@ -30,7 +30,7 @@ const RootLayout: React.FC<Props> = ({ children, params: { locale } }) => {
       <body className={`${jost.className}`}>
         <NextIntlClientProvider messages={messages}>
           <Header />
-          {children}
+          <main className="bg-background">{children}</main>
         </NextIntlClientProvider>
       </body>
     </html>
