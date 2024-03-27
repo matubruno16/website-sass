@@ -12,13 +12,6 @@
       "subtitle": "Provide excellent customer service. Answer more tickets all-in-one Primarily software.",
       "link": "How It Work"
     },
-    "Buttons": {
-      "btn-hero": "Get Started",
-      "btn-whyChooseUs": "Get Started",
-      "btn-InNeed":"In Need",
-      "btn-Industry":"Industry",
-      "btn-Solution":"Solution"
-    },
     "Features": {
       "title": "Explore Premium Features",
       "subtitle": "A unique and powerful software package to manage your entire company, made available to you by a company with the long-term vision of transforming your way of working.",
@@ -61,6 +54,15 @@
     }
   },
   "Blog": {
-    "title": "Our Journal"
+      "title": "Our Journal",
+      "subtitle": "Get the latest articles from our journal, writing, discuss and share"
+    },
+  "Buttons": {
+    "btn-hero": "Get Started",
+    "btn-whyChooseUs": "Get Started",
+    "btn-InNeed": "In Need",
+    "btn-Industry": "Industry",
+    "btn-Solution": "Solution",
+    "btnCardPageBlog": "Read More"
   }
 }

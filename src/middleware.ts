@@ -6,7 +6,7 @@ export default createMiddleware({
  
   // Used when no locale matches
   defaultLocale: 'en',
-  localePrefix: 'never',
+  localePrefix: 'always',
 
   pathnames: {
     // If all locales use the same pathname, a single
@@ -18,7 +18,7 @@ export default createMiddleware({
     // specify each external path per locale.
     '/about': {
       en: '/about',
-      es: '/sobrenosotros',
+      es: '/nosotros',
     },
   }
 });

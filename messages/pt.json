@@ -13,14 +13,6 @@
 
       "link": "Como funciona"
     },
-    "Buttons": {
-      "btn-hero": "Começar",
-      "btn-whyChooseUs": "Começar",
-      "btn-InNeed": "Necessidade",
-      "btn-Industry": "Indústria",
-      "btn-Solution": "Solução"
-  
-    },
     "Features": {
       "title": "Explore os Recursos Premium",
       "subtitle": "Um pacote de software único e poderoso para gerenciar toda a sua empresa, disponibilizado por uma empresa com a visão de longo prazo de transformar sua forma de trabalhar.",
@@ -64,6 +56,15 @@
   
   },
   "Blog": {
-    "title": "O nosso Blogue"
+    "title": "O nosso Blogue",
+    "subtitle": "Obter os artigos mais recentes da nossa revista, escrever, discutir e partilhar"
+  },
+  "Buttons": {
+    "btn-hero": "Começar",
+    "btn-whyChooseUs": "Começar",
+    "btn-InNeed": "Necessidade",
+    "btn-Industry": "Indústria",
+    "btn-Solution": "Solução",
+    "btnCardPageBlog": "Leia mais"
   }
 }

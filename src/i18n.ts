@@ -4,8 +4,10 @@ import {getRequestConfig} from 'next-intl/server';
 // Can be imported from a shared config
 const locales = ['en', 'es', 'pt'];
  
+export let baseLocale = "";
+
 export default getRequestConfig(async ({locale}) => {
-    const baseLocale = new Intl.Locale(locale).baseName;
+     baseLocale = new Intl.Locale(locale).baseName;
   // Validate that the incoming `locale` parameter is valid
   if (!locales.includes(baseLocale)) notFound();
  
