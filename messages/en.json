@@ -1,0 +1,68 @@
+{
+  "Home": {
+    "Header": {
+      "solutions": "Solutions",
+      "industries": "Industries",
+      "products": "Products",
+      "resources": "Resources",
+      "prices": "Prices"
+    },
+    "Hero": {
+      "title": "The CRM Platform Your Whole Business Will Love",
+      "subtitle": "Provide excellent customer service. Answer more tickets all-in-one Primarily software.",
+      "link": "How It Work"
+    },
+    "Features": {
+      "title": "Explore Premium Features",
+      "subtitle": "A unique and powerful software package to manage your entire company, made available to you by a company with the long-term vision of transforming your way of working.",
+      "card1": {
+        "title": "Powerful Settings",
+        "subtitle": "Provide excellent customer service. Answer more tickets."
+      },
+      "card2": {
+        "title": "User Friendly",
+        "subtitle": "Use Timeline to plan projects right how the pieces fit together."
+      },
+      "card3": {
+        "title": "Integrated Platform",
+        "subtitle": "Where you can do everything from one place."
+      }
+    },
+    "CoreFeatures": {
+      "title": "Allocate Leads and Simplify Lead Management",
+      "subtitle": "Unique and powerful suite of software to run your entire business, brought to you by a company with the long term vision to transform the way you work.",
+      "headerGrafics1": "Lead generation",
+      "description1": "Guide Helps Companies Increase Customer & Agent Satisfaction, Also Reducing Support Costs.",
+      "headerGrafics2": "Team Email",
+      "description2": "Group Your Contacts By Location, Age, And Almost Any Behavior With Advanced Segmentation Tools."
+    },
+    "WhyChooseUs": {
+      "title": "Ways a project management tool can help your team",
+      "subtitle": "Unique and powerful suite of software to run your entire business, brought to you by a company with the long term vision to transform the way you work.",
+      "heeaderIcon1": "CRM Security",
+      "parrafparagraphIcon1": "Cards and make more sales while chatting",
+      "heeaderIcon2": "Marketing Hub",
+      "parrafparagraphIcon2": "Show off your goods in elegant product cards and mak."
+    },
+    "ClientLogos": {
+      "title": "Trusted by more than 75 million users globally",
+      "subtitle": "Unique and powerful suite of software to run your entire business, brought to you  transform the way you work."
+    },
+    "SalesModules": {
+      "title": "Sales Automation Modules",
+      "subtitle": "Unique and powerful suite of software to run your entire business, brought to you by a company with the long term vision to transform the way you work."
+    }
+  },
+  "Blog": {
+      "title": "Our Journal",
+      "subtitle": "Get the latest articles from our journal, writing, discuss and share"
+    },
+  "Buttons": {
+    "btn-hero": "Get Started",
+    "btn-whyChooseUs": "Get Started",
+    "btn-InNeed": "In Need",
+    "btn-Industry": "Industry",
+    "btn-Solution": "Solution",
+    "btnCardPageBlog": "Read More"
+  }
+}

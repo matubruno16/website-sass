@@ -1,0 +1,69 @@
+{
+  "Home": {
+    "Header": {
+      "solutions": "Soluciones",
+      "industries": "Industrias",
+      "products": "Productos",
+      "resources": "Recursos",
+      "prices": "Precios"
+    },
+    "Hero": {
+      "title": "La plataforma CRM que toda tu empresa amará",
+      "subtitle": "Proporcione un excelente servicio de atención al cliente. Responda a más tickets todo en un solo Software",
+      "link": "Cómo funciona"
+    },
+    "Features": {
+      "title": "Explore las funciones Premium",
+      "subtitle": "Un paquete de software único y potente para gestionar toda su empresa, puesto a su disposición por una empresa con la visión a largo plazo de transformar su forma de trabajar.",
+      "card1": {
+        "title": "Ajustes Potentes",
+        "subtitle": "Ofrezca un excelente servicio de atención al cliente. Responder a más tickets."
+      },
+      "card2": {
+        "title": "Fácil de usar",
+        "subtitle": "Utiliza la línea de tiempo para planificar proyectos y ver cómo encajan las piezas."
+      },
+      "card3": {
+        "title": "Plataforma integrada",
+        "subtitle": "Donde podes realizar todos desde un mismo sitio."
+      }
+    },
+    "CoreFeatures": {
+      "title": " Asignar clientes potenciales y simplificar su gestión",
+      "subtitle": "Un paquete de software único y potente para gestionar toda su empresa, puesto a su disposición por una mpresa con la visión largo plazo de transformar su forma de trabajar.",
+      "headerGrafics1": "Generación de clientes potenciales",
+      "description1": " La guía ayuda a las empresas a aumentar la satisfacción de clientes y agentes, reduciendo también los costes de asistencia.",
+      "headerGrafics2": "Correo electrónico del equipo",
+      "description2": "Agrupe sus contactos por ubicación, edad y casi cualquier comportamiento con las herramientas avanzadas de segmentación."
+    },
+    "WhyChooseUs": {
+      "title": "Formas en que una herramienta de gestión de proyectos puede ayudar a tu equipo",
+      "subtitle": "Suite única y poderosa de software para administrar todo tu negocio, presentada por una empresa con la visión a largo plazo de transformar la forma en que trabajas.",
+      "heeaderIcon1": "Seguridad CRM",
+      "parrafparagraphIcon1": "Administra tus contactos y realiza más ventas mientras chateas.",
+      "heeaderIcon2": "Hub de Marketing",
+      "parrafparagraphIcon2": "Muestra tus productos en elegantes tarjetas de productos y aumenta tus ventas."
+    },
+    "ClientLogos": {
+      "title": "Confiado por más de 75 millones de usuarios en todo el mundo",
+      "subtitle": "Suite única y poderosa de software para administrar todo tu negocio, presentada por una empresa con la visión a largo plazo de transformar la forma en que trabajas."
+    },
+    "SalesModules": {
+      "title": "Módulos de Automatización de Ventas",
+      "subtitle": "Suite única y poderosa de software para administrar todo tu negocio, presentada por una empresa con la visión a largo plazo de transformar la forma en que trabajas."
+    }
+  },
+  "Blog": {
+    "title": "Nuestro Blog",
+    "subtitle": "Obtenga los últimos artículos de nuestra revista, escriba, discuta y comparta"
+  },
+  "Buttons": {
+    "btn-hero": "Comenzar",
+    "btn-whyChooseUs": "Comenzar",
+    "btn-InNeed": "Necesidades",
+    "btn-Industry": "Industria",
+    "btn-Solution": "Solución",
+    "btnCardPageBlog": "Leer más"
+  }
+  
+}

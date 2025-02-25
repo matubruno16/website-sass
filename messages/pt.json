@@ -1,0 +1,70 @@
+{
+  "Home": {
+    "Header": {
+      "solutions": "Soluções",
+      "industries": "Indústrias",
+      "products": "Produtos",
+      "resources": "Recursos",
+      "prices": "Preços"
+    },
+    "Hero": {
+      "title": "A plataforma CRM que toda a sua empresa vai adorar",
+      "subtitle": "Prestar um excelente serviço ao cliente. Responder a mais bilhetes num só software",
+
+      "link": "Como funciona"
+    },
+    "Features": {
+      "title": "Explore os Recursos Premium",
+      "subtitle": "Um pacote de software único e poderoso para gerenciar toda a sua empresa, disponibilizado por uma empresa com a visão de longo prazo de transformar sua forma de trabalhar.",
+      "card1": {
+        "title": "Ajustes Poderosos",
+        "subtitle": "Ofereça um excelente serviço ao cliente. Responda a mais tickets."
+      },
+      "card2": {
+        "title": "Fácil de Usar",
+        "subtitle": "Use a linha do tempo para planejar projetos e ver como as peças se encaixam."
+      },
+      "card3": {
+        "title": "Plataforma Integrada",
+        "subtitle": "Onde você pode fazer tudo a partir de um único lugar."
+      }
+    },
+    "CoreFeatures": {
+      "title": "Atribuir leads e simplificar sua gestão",
+      "subtitle": "Um pacote de software único e poderoso para gerenciar toda a sua empresa, disponibilizado por uma empresa com a visão de longo prazo de transformar sua forma de trabalhar.",
+      "headerGrafics1": "Geração de leads",
+      "description1": "O guia ajuda as empresas a aumentar a satisfação dos clientes e agentes, reduzindo também os custos de assistência.",
+      "headerGrafics2": "Email da equipe",
+      "description2": "Agrupe seus contatos por localização, idade e quase qualquer comportamento com as avançadas ferramentas de segmentação."
+    },
+    "WhyChooseUs": {
+      "title": "Como uma ferramenta de gestão de projetos pode ajudar sua equipe",
+      "subtitle": "Suíte única e poderosa de software para executar todo o seu negócio, oferecida por uma empresa com visão de longo prazo para transformar a maneira como você trabalha.",
+      "heeaderIcon1": "Segurança do CRM",
+      "parrafparagraphIcon1": "Gerencie seus contatos e faça mais vendas enquanto conversa.",
+      "heeaderIcon2": "Hub de Marketing",
+      "parrafparagraphIcon2": "Mostre seus produtos em elegantes cartões de produtos e aumente suas vendas."
+    },
+    "ClientLogos": {
+      "title": "Confiado por mais de 75 milhões de usuários globalmente",
+      "subtitle": "Suíte única e poderosa de software para executar todo o seu negócio, oferecida por uma empresa com visão de longo prazo para transformar a maneira como você trabalha."
+    },
+    "SalesModules": {
+      "title": "Módulos de Automatização de Vendas",
+      "subtitle": "Suíte única e poderosa de software para executar todo o seu negócio, oferecida por uma empresa com visão de longo prazo para transformar a maneira como você trabalha."
+    }
+  
+  },
+  "Blog": {
+    "title": "O nosso Blogue",
+    "subtitle": "Obter os artigos mais recentes da nossa revista, escrever, discutir e partilhar"
+  },
+  "Buttons": {
+    "btn-hero": "Começar",
+    "btn-whyChooseUs": "Começar",
+    "btn-InNeed": "Necessidade",
+    "btn-Industry": "Indústria",
+    "btn-Solution": "Solução",
+    "btnCardPageBlog": "Leia mais"
+  }
+}
