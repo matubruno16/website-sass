@@ -1,11 +1,10 @@
-import {useTranslations} from 'next-intl'; 
-
+import Header from '../components/Header';
+import Hero from '../components/Hero';
 export default function Home() {
-  const t = useTranslations('Home.Hero');
-
   return (
     <>
-    <h1>{t('title')}</h1>
+    <Header />
+    <Hero />
     </>
   );
 }
