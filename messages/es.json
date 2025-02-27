@@ -1,6 +1,9 @@
 {
   "Home": {
     "Header": {
+      "es": "Español",
+      "en": "Ingles",
+      "pt": "Português",
       "solutions": "Soluciones",
       "industries": "Industrias",
       "products": "Productos",
