@@ -1,5 +1,8 @@
 @import "tailwindcss";
 
+@theme {
+  --color-btn: #8774F3;
+}
 
 .bg-heading {
     background-image: url(../../public/heading.png);
